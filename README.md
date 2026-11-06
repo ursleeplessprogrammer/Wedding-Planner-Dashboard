@@ -30,6 +30,11 @@ Run `initializeWeddingPlanner()` from the Apps Script editor to set up the sprea
 - Includes a `SHEETID()` custom spreadsheet function for internal sheet links.
 - Provides an Explanation sheet when `setupExplanationSheet()` is implemented.
 
+<img width="346" height="255" alt="image" src="https://github.com/user-attachments/assets/afa0bf4f-05e4-488e-8c40-bd9f4660266a" />
+<img width="1021" height="185" alt="image" src="https://github.com/user-attachments/assets/cd195bb6-51fe-4b9a-9488-fb11edcf3f3c" />
+<img width="1106" height="184" alt="image" src="https://github.com/user-attachments/assets/40969e11-52e9-4b52-bbb4-7f6d1bb2b0a3" />
+
+
 ## 📑 Spreadsheet Structure
 
 The setup script creates these sheets:
